@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/nba/page": "app/nba/page.js",
+  "/nfl/page": "app/nfl/page.js",
+  "/auth/page": "app/auth/page.js",
+  "/mls/page": "app/mls/page.js",
+  "/ncaa-fb/page": "app/ncaa-fb/page.js"
+}
